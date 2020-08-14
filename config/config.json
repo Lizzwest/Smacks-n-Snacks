@@ -1,0 +1,20 @@
+{
+  "development": {
+   
+    "database": "smacks-n-snacks",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+   
+    "database": "smacks-n-snacks_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+   
+    "database": "smacks-n-snacks_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

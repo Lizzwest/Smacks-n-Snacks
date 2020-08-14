@@ -1,0 +1,12 @@
+Index.js- this is my home route. I want this route to be able to take me to the home page, the about me and the contact page.
+
+snacks.js- this is the controller for all routes that lead to my snacks pages. 
+
+mealPlans,js- this is the controller i want to take me between the mealplan page and the order form, as well as redirect to any other page necessary.
+
+owner.js- touch base with instructors. How do i may a webpage ONLY viewable by owner upon log in?
+
+orders.js- all routes having to do with the order form and the oNLY page to link to the owner.js (for the owner ejs page)
+
+waht else do i need? I need a log in page. On the home page? Separate tab? Discuss
+

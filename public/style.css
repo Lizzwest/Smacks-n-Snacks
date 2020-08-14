@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://www.nirvelli.com/wp-content/uploads/2014/05/gumlog-darkwood.jpg);
+    text-align: right;
+}
+.sidenav-overlay{
+    background: blue;
+    size: 50%;
+}
+.home{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.meal{
+    font-family: 'Noto Serif', serif;
+
+}
+.snack{
+    font-family: 'Oswald', sans-serif;
+}
+.smack{
+    font-family: 'Roboto Condensed', sans-serif;
+}
